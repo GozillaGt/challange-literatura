@@ -20,9 +20,6 @@ También almacena información en una base de datos local para que puedas accede
 
 ## ¿Cómo empezar? 🖥️
 
-### Clona el repositorio:
-`git clone https://github.com/Orliluq/Challenge-Literalura.git`
-
 ### Instala las dependencias:
 `cd literalura`
 `mvn install`
